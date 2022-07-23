@@ -54,5 +54,15 @@ This shows trips based on the Usertype - like if they are customers or regulars(
 This shows a dashboard with data including the peak hours of bike trips and least trip hours which can be used for maintainence repairs of bikes. It also shows a treemap with counts of bike ids with thier respective trip numbers.  
 
 
+### Summary
 
+1. The story data shows activity of the bike sharing service in New York for August 2019.
+2. Majority of the rides were in the very busy Manhattan Island.
+3. Majority usage is by male.
+4. 7AM-9AM and evening 5PM -7PM are the peak hours , so could be infered that it could be a good way commute for people during office hours.
 
+Additional analysis could be:
+
+1. Comparing data for different months to determine trends across the year.
+2. Including weather data , as it can affect the bike ride trends
+   
